@@ -6,7 +6,6 @@
  *
  * @category  PPE
  * @package   GSB
- * @author    Cheri Bibi - Réseau CERTA <contact@reseaucerta.org>
  * @author    José GIL - CNED <jgil@ac-nice.fr>
  * @copyright 2017 Réseau CERTA
  * @license   Réseau CERTA
@@ -24,16 +23,6 @@
  * $monPdo de type PDO
  * $monPdoGsb qui contiendra l'unique instance de la classe
  *
- * PHP Version 7
- *
- * @category  PPE
- * @package   GSB
- * @author    Cheri Bibi - Réseau CERTA <contact@reseaucerta.org>
- * @author    José GIL <jgil@ac-nice.fr>
- * @copyright 2017 Réseau CERTA
- * @license   Réseau CERTA
- * @version   Release: 1.0
- * @link      http://www.php.net/manual/fr/book.pdo.php PHP Data Objects sur php.net
  */
 
 
